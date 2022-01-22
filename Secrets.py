@@ -1,3 +1,5 @@
+import requests
+
 class Secrets:
     #SecretsSite = 'https://secretserver.cid.dom/SecretServer' # URL of secrets server
     SecretsAuthApi = '/oauth2/token' # Authentication token api
